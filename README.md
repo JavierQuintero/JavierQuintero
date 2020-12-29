@@ -7,7 +7,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-[![GitHub Javier](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/JavierQuintero)
+[![GitHub Javier](https://img.shields.io/github/followers/JavierQuintero?label=follow&style=social)](https://github.com/JavierQuintero)
 
 
 ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> A little more about me...  
