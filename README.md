@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">Junior Developer Web<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: JavierQuintero]](https://www.linkedin.com/in/javier-quintero-216399181)
+![Linkedin: JavierQuintero](https://www.linkedin.com/in/javier-quintero-216399181)
 [![GitHub Javier](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/JavierQuintero)
 
 
