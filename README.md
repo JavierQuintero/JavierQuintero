@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```html
+```css
 @media screen and (max-width:768px){
     .contenedorSlid{      
         margin-top: 40px;
