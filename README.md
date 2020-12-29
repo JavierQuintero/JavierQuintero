@@ -35,7 +35,7 @@ const Javier = {
 <div align="center">
 
 
-[![Hayat's github stats](https://github-readme-stats.vercel.app/api?username=JavierQuintero&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/JavierQuintero/github-readme-stats&hide=html,css)
+[![Hayat's github stats](https://github-readme-stats.vercel.app/api?username=JavierQuintero&theme=tokyonight&show_icons=true)](https://github.com/JavierQuintero/github-readme-stats)
 </hr>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierQuintero&title_color=2257EA&bg_color=f7f7f7)](https://github.com/JavierQuintero/github-readme-stats)
 
