@@ -15,7 +15,7 @@
 ```javascript
 const Javier = {
   pronouns: "he",
-  code: [Javascript, HTML, CSS],
+  code: ["Javascript", "HTML", "CSS"],
   tools: ["Bootstrat", "Materialize", "Foundation Zurb"],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
