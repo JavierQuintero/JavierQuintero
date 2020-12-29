@@ -1,6 +1,6 @@
 <h2> Hi, I'm Javier! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/TWOxn80LEsXQv6qgxn/giphy.gif" width="230">
-Junior Developer Web<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Junior Developer Web<img src="https://media.giphy.com/media/sDvbL3u91MwDTcH0ye/giphy.gif" width="30"> 
 </em></p>
 
 
