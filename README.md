@@ -45,6 +45,12 @@ const Javier = {
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/javier-quintero-216399181)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573112688955&text=Olá!)](https://api.whatsapp.com/send?phone=573112688955&text=Hi!🖖)
 
+👨🏽‍💻I am currently looking to increase my knowledge;
+🌱 I’m currently learning Deep Reinforcement Learning;
+🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
+💬 Ask me about anything, I am happy to help;
+📫 Please email via ejviquin@gmail.com to reach me.
+📝 See my Curriculum Vitae to get more info.
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
