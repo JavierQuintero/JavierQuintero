@@ -3,7 +3,7 @@
 </em></p>
 
 [![Linkedin: JavierQuintero]](https://www.linkedin.com/in/javier-quintero-216399181)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub Javier](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/JavierQuintero)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
