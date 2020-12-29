@@ -36,6 +36,7 @@ const Javier = {
 
 
 [![Hayat's github stats](https://github-readme-stats.vercel.app/api?username=JavierQuintero&theme=tokyonight&show_icons=true)](https://github.com/JavierQuintero/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=ashwanisng&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
 
 </div>
 
