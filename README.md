@@ -30,8 +30,18 @@ const Javier = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
+<hr/>
+
+<div align="center">
+
+
+[![Hayat's github stats](https://github-readme-stats.vercel.app/api?username=Javier Quintero&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayat-tamboli&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ⭐️ From [@JavierQuintero](https://github.com/JavierQuintero)
-###### Whatsapp
+###### Contacto
 
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/javier-quintero-216399181)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573112688955&text=Olá!)](https://api.whatsapp.com/send?phone=573112688955&text=Hi!🖖)
