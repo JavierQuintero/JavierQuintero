@@ -36,7 +36,7 @@ const Javier = {
 
 
 [![Hayat's github stats](https://github-readme-stats.vercel.app/api?username=JavierQuintero&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/JavierQuintero/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierQuintero&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/JavierQuintero/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierQuintero&title_color=2257EA&bg_color=f7f7f7)](https://github.com/JavierQuintero/github-readme-stats)
 
 </div>
 
