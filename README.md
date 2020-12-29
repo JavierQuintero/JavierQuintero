@@ -10,6 +10,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## HTML
+    ```html
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content=", initial-scale=1.0">
+            <title>Document</title>
+        </head>
+        <body>
+
+        </body>
+        </html>
+    ```
 ## CSS
 ```css
 @media screen and (max-width:768px){
