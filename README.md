@@ -17,12 +17,12 @@ Junior Developer Web<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 const Javier = {
   pronouns: "he",
   code: [Javascript, HTML, CSS],
-  tools: [Bootstrat, Materialize, Foundation Zurb],
+  tools: ["Bootstrat", "Materialize", "Foundation Zurb"],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
+                        cdn: "npm",
+                        environment: "node",
+                        mentor: "Empiricism"
                       },
  challenge: "My goal is to change jobsand always improve... "
 }
