@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##CSS
+## CSS
 ```css
 @media screen and (max-width:768px){
     .contenedorSlid{      
