@@ -10,3 +10,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```html
+@media screen and (max-width:768px){
+    .contenedorSlid{      
+        margin-top: 40px;
+    }
+    .imgSlid{
+        width: 280px;
+        /* margin-top: 20px; */
+    }
+    .contenido-slider{
+        flex-direction: column-reverse;
+        justify-content: center;
+    }
+    .contenido-slider > div{
+        width: 80%;
+
+    }
+}
+```
