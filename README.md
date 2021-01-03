@@ -53,7 +53,7 @@ const Javier = {
 💬 Ask me about anything, I am happy to help;</br>
 📫 Please email via ejviquin@gmail.com to reach me.</br>
 📝 See my Curriculum Vitae to get more info.</br>
-<div style="display:grid; justify-content:space-around">  
+<div style="display:grid; justify-content:space-around; width:100%;">  
   <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
   <code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
   <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
