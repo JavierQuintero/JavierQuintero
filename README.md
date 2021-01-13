@@ -43,8 +43,6 @@ const Javier = {
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierQuintero&theme=radical" />
 </a>
 </div>
-
-⭐️ From [@JavierQuintero](https://github.com/JavierQuintero)
 ###### Contacto
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/javier-quintero-216399181)
@@ -61,3 +59,6 @@ const Javier = {
   <code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
   <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
 </div>
+
+
+⭐️ From [@JavierQuintero](https://github.com/JavierQuintero)
